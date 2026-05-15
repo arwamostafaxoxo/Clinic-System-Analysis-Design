@@ -20,7 +20,7 @@ The system was designed using various UML and data flow diagrams to ensure a cle
 
 ### 🎭 Behavioral Modeling
 * **Use Case Diagram:** Identifying user roles (Admin, Doctor, Patient) and their interactions.
-* ![Use Case Diagram](use_case.jpeg)
+* ![Use Case Diagram](Diagrams/use_case.jpeg)
 * **Activity Diagrams:** Visualizing the step-by-step workflow of key system features.
 * ![Activity Diagram](Diagrams/Activity_diagram.jpeg)
 * **Sequence Diagrams:** Detailing the chronological interaction between objects for specific scenarios.
