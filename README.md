@@ -14,23 +14,23 @@ The system was designed using various UML and data flow diagrams to ensure a cle
 
 ### 🌐 High-Level Design
 * **Context Diagram:** Defining the system boundaries and external entities.
-* ![Context Diagram](Diagrams/Context)
+* ![Context Diagram](Diagrams/Context.jpeg)
 * **DFD (Data Flow Diagrams):** Modeling the flow of information through the system processes.
-* ![DFD Diagram](Diagrams/DFD)
+* ![DFD Diagram](Diagrams/DFD.jpeg)
 
 ### 🎭 Behavioral Modeling
 * **Use Case Diagram:** Identifying user roles (Admin, Doctor, Patient) and their interactions.
-* ![Use Case Diagram](use_case)
+* ![Use Case Diagram](use_case.jpeg)
 * **Activity Diagrams:** Visualizing the step-by-step workflow of key system features.
-* ![Activity Diagram](Diagrams/Activity_diagram)
+* ![Activity Diagram](Diagrams/Activity_diagram.jpeg)
 * **Sequence Diagrams:** Detailing the chronological interaction between objects for specific scenarios.
-* ![Sequence Diagram 1](Diagrams/Sequence_diagram1)
-* ![Sequence Diagram 2](Diagrams/Sequence_diagram2)
-* ![Sequence Diagram 3](Diagrams/Sequence_diagram3)
+* ![Sequence Diagram 1](Diagrams/Sequence_diagram1.jpeg)
+* ![Sequence Diagram 2](Diagrams/Sequence_diagram2.jpeg)
+* ![Sequence Diagram 3](Diagrams/Sequence_diagram3.jpeg)
 
 ### 🏗️ Structural Modeling
 * **Class Diagram:** Defining the system's static structure, including classes, attributes, and relationships.
-* ![Class Diagram](Diagrams/class_diagram)
+* ![Class Diagram](Diagrams/class_diagram.jpeg)
 
 ## 🚀 Key Skills Applied
 - **Software Engineering Principles:** Applying SDLC methodologies.
